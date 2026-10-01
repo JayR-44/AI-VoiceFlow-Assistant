@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+openai>=1.66,<4
+gtts>=2.3.0
+groq>=0.13,<2
+python-dotenv>=1.0.0
